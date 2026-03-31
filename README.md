@@ -3,7 +3,6 @@
 ![C](https://img.shields.io/badge/Language-C-00599C?logo=c&logoColor=white)
 ![42 School](https://img.shields.io/badge/School-42-000000?logo=42&logoColor=white)
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
-![Compiler](https://img.shields.io/badge/Compiler-cc%20-Wall%20-Wextra%20-Werror-blue)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 
 This repository is a public version of the **ft_printf** project developed in the 42 curriculum by eride-ol.
